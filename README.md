@@ -29,22 +29,16 @@ The goal is to create a pipeline from **data preprocessing → model training �
 
 ### 🔹 Model Building
 
-* Used **Random Forest Classifier**
+* Used **Logistic regression**
 * Split data into training and testing sets
 * Trained the model on processed data
 
-### 🔹 Hyperparameter Tuning
-
-* Used **GridSearchCV** to find optimal parameters
-* Improved model performance
 
 ### 🔹 Model Evaluation
 
 * Evaluated using:
 
   * Accuracy
-  * Confusion Matrix
-  * Classification Report
 
 ### 🔹 Model Saving
 
