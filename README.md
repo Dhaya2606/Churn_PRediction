@@ -90,4 +90,4 @@ The goal is to create a pipeline from **data preprocessing → model training �
 
 ## 👨‍💻 Author
 
-Dhaya Kumar
+Dhayananth
