@@ -24,6 +24,7 @@ The goal is to create a pipeline from **data preprocessing → model training �
   * Monthly Spend
   * Tenure
   * Plan Type
+  * last_login_days
 * Applied **StandardScaler** for feature scaling
 
 ### 🔹 Model Building
